@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  3 20:45:15 2020
-
-@author: balaji
-"""
 
 import cv2 as cv
 
